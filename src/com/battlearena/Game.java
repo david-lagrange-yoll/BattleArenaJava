@@ -13,6 +13,7 @@ public class Game {
        System.out.println("1. Warrior");
        System.out.println("2. Mage");
        System.out.println("3. Archer");
+       System.out.println("4. Dwarf");
 
        int choice = scanner.nextInt();
 
